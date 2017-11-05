@@ -18,6 +18,8 @@ public class NewMain {
         System.out.println("Hallo!");
         System.out.println("Hallo!");
         System.out.println("Uno");
+        System.out.println("Duo");
+
     }
-    
+
 }
